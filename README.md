@@ -20,7 +20,7 @@ Requirements:
 How to Run:
 -----------
 1. Clone the repository:
-   git clone https://github.com/your-username/divar-ad-rank-checker.git
+   git clone [https://github.com/XOFZ798/Divar-Ad-Rank-Checker-Selenium-Based-]
 
 2. Navigate to the project directory:
    cd divar-ad-rank-checker
